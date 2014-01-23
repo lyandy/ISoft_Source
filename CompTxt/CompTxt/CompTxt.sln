@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompTxt", "CompTxt\CompTxt.csproj", "{45173986-59D5-4265-9C5C-06DA08452E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45173986-59D5-4265-9C5C-06DA08452E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45173986-59D5-4265-9C5C-06DA08452E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45173986-59D5-4265-9C5C-06DA08452E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45173986-59D5-4265-9C5C-06DA08452E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

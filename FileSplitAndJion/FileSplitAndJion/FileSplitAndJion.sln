@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSplitAndJion", "FileSplitAndJion\FileSplitAndJion.csproj", "{071D6E98-211D-432C-8F3F-6D5E8849D36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071D6E98-211D-432C-8F3F-6D5E8849D36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071D6E98-211D-432C-8F3F-6D5E8849D36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071D6E98-211D-432C-8F3F-6D5E8849D36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071D6E98-211D-432C-8F3F-6D5E8849D36E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

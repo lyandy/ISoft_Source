@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Individuation", "Individuation\Individuation.csproj", "{09E558A1-482D-4C45-ACE7-46C2780727FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E558A1-482D-4C45-ACE7-46C2780727FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E558A1-482D-4C45-ACE7-46C2780727FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E558A1-482D-4C45-ACE7-46C2780727FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E558A1-482D-4C45-ACE7-46C2780727FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

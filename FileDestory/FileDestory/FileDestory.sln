@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDestory", "FileDestory\FileDestory.csproj", "{1ADEAA41-CD09-4F8B-872F-CA5756667BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADEAA41-CD09-4F8B-872F-CA5756667BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADEAA41-CD09-4F8B-872F-CA5756667BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADEAA41-CD09-4F8B-872F-CA5756667BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADEAA41-CD09-4F8B-872F-CA5756667BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
