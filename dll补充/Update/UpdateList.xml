@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AutoUpdater>
+  <description>Application autoUpdate</description>
+  <Updater>
+	<Url>http://www.chinetsoft.net/ISoftUpdate/</Url>
+	<LastUpdateTime>2013-12-26</LastUpdateTime>
+  </Updater>
+  <Application applicationId="ISoft">
+    <EntryPoint>ISoft.exe</EntryPoint>
+    <Location>.</Location>
+    <Version>2.1.0 Final</Version>
+  </Application>
+  <Files>
+
+	   <File Ver="2.1.0 Final" Name="ISoft\ISoft.exe" UpdateTxt="更新详细：
+1.解决64位系统下崩溃的问题
+2.启动界面优化，更加美观
+/>
+
+           <File Ver="1.0.0" Name="ISoft\Update\AutoUpdate.exe" UpdateTxt=""/>
+
+	   <File Ver="1.0.3" Name="ISoft\AdvancedFunctions\HotTools\FileDestrory\FileDestory.exe" UpdateTxt=""/>
+	   <File Ver="1.0.2" Name="ISoft\AdvancedFunctions\HotTools\Individuation\Individuation.exe" UpdateTxt=""/>
+           <File Ver="1.0.4" Name="ISoft\AdvancedFunctions\HotTools\RubbishCleaner\RubbishCleaner.exe" UpdateTxt=""/>
+
+           <File Ver="1.0.4" Name="ISoft\AdvancedFunctions\OtherTools\CompTxt\CompTxt.exe" UpdateTxt=""/>
+	   <File Ver="1.1.5" Name="ISoft\AdvancedFunctions\OtherTools\FileSplitAndJion\FileSplitAndJion.exe" UpdateTxt=""/>
+           <File Ver="1.0.1" Name="ISoft\AdvancedFunctions\OtherTools\ThunderEncodeDecode\ThunderEncodeDecode.exe" UpdateTxt=""/>
+           <File Ver="1.0.2" Name="ISoft\AdvancedFunctions\OtherTools\VideoRec\VideoRec.exe" UpdateTxt=""/>
+
+	   <File Ver="1.0.4" Name="ISoft\AdvancedFunctions\SysOptimizedTools\OSSpeed\OSSpeed.exe" UpdateTxt=""/>
+           <File Ver="1.0.4" Name="ISoft\AdvancedFunctions\SysOptimizedTools\ScanLargeFile\ScanLargeFile.exe" UpdateTxt=""/>
+
+           <File Ver="1.0.5" Name="ISoft\AdvancedFunctions\SysTools\DefaultSet\DefaultSet.exe" UpdateTxt=""/>
+	   <File Ver="1.0.2" Name="ISoft\AdvancedFunctions\SysTools\FileMonitor\FileMonitor.exe" UpdateTxt=""/>
+           <File Ver="1.0.5" Name="ISoft\AdvancedFunctions\SysTools\ReadText\ReadText.exe" UpdateTxt="更新详细：
+1.解决文本阅读过程无法关闭窗口的BUG"/>
+	   <File Ver="1.0.4" Name="ISoft\AdvancedFunctions\SysTools\TimeSyn\TimeSyn.exe" UpdateTxt=""/>
+
+  </Files>
+</AutoUpdater>
