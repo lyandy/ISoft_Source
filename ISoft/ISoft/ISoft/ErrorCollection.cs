@@ -96,7 +96,7 @@ namespace ISoft
                 SetSmtpClient("smtp." + "163" + ".com", 25);
 
                 //设置发送地址信息
-                SetAddressFrom("h12045" + "@163.com", "3714716");
+                SetAddressFrom("You Mail Address", "Your Mail Secret");
 
                 //message信息
                 Message = new MailMessage();
